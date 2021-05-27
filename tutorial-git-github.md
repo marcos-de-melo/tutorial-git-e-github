@@ -65,7 +65,7 @@
 > git init --bare
 > git clone file:////pastaremota/diretorio_remoto/cliente1 projeto1
 > git push origin master / main
-> 
+> git pull origin master / main
 
 
 
